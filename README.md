@@ -29,3 +29,18 @@ The model was trained on the FER-2022 emotion classification dataset. Refer to t
 Install the necessary dependencies using the following command:
 ```bash
 pip install -r requirements.txt
+
+## Main Dependencies:
+
+- OpenCV
+- TensorFlow
+- Streamlit
+- Matplotlib
+- Pandas
+
+## Credits
+
+- FER-2022 dataset from Kaggle
+- Haar cascade classifier from OpenCV
+
+Feel free to explore and contribute to the project!
