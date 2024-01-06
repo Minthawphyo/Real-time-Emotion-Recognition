@@ -29,7 +29,7 @@ The model was trained on the FER-2022 emotion classification dataset. Refer to t
 Install the necessary dependencies using the following command:
 ```bash
 pip install -r requirements.txt
-
+```
 ## Main Dependencies:
 
 - OpenCV
