@@ -1,6 +1,7 @@
 # Import libraries
 import streamlit as st
-import cv2, time
+import cv2
+import time
 import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
