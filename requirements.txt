@@ -4,6 +4,6 @@ tensorflow
 matplotlib
 pandas
 numpy
-opencv-contrib-python
+opencv-python-headless
 scikit-learn
 pillow
