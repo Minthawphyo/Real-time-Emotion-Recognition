@@ -1,7 +1,7 @@
 # Emotion Tracker App
 
 
-<img title="The Emotion Tracker App Overview" alt="Overview of the app" src="/image/emotional_tracker.png">
+<img title="The Emotion Tracker App Overview" alt="Overview of the app" src="/images/emotional_tracker.png">
 ## Overview
 The Emotion Tracker App is a real-time webcam-based application that utilizes facial recognition to detect emotions and analyze emotional trends over time. This app is designed to provide insights into emotional frequencies and distribution through charts.
 
