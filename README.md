@@ -37,6 +37,13 @@ pip install -r requirements.txt
 - Streamlit
 - Matplotlib
 - Pandas
+- streamlit
+- pandas
+- numpy
+- opencv-python-headless
+- scikit-learn
+- pillow
+- streamlit_webrtc 
 
 ## Credits
 
