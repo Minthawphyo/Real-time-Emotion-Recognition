@@ -8,4 +8,3 @@ opencv-python-headless
 scikit-learn
 pillow
 streamlit_webrtc 
-base64
